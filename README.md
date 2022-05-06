@@ -1,1 +1,1 @@
-[![IMAGE ALT TEXT](https://github.com/Shepherddot/large_scale_monocular_dense_mapping/blob/master/monocular_dense_mapping.png)](https://youtu.be/vjYXzsz54C0 "Monocular dense mapping")
+[![Watch the video](https://img.youtube.com/vi/vjYXzsz54C0/default.jpg)](https://youtu.be/vjYXzsz54C0)
